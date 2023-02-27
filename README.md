@@ -20,5 +20,6 @@ Bu projeyi yerel bir bilgisayarda çalıştırmak için aşağıdaki adımları 
 Bu repo'yu klonlayın veya indirin.
 Klonlanan veya indirilen dosyaları bir metin editöründe açın.
 index.html dosyasını tarayıcınızda açın.
-<br/>
+
+
 ![Screenshot_1](https://user-images.githubusercontent.com/117840847/221589286-12dda7ee-3348-4ef6-89b9-4a1aa777e642.png)
